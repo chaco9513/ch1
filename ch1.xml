@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/ch1/ch1.css" type="text/css"?>
 <html xmlns="http://www.w3.org/1999/xhtml"
     xmlns:ev="http://www.w3.org/2001/xml-events"
     xmlns:w2="http://www.inswave.com/websquare" xmlns:xf="http://www.w3.org/2002/xforms">
@@ -30,5 +31,6 @@
     	<w2:anchor outerDiv="false" style="width: 100px;height: 23px;" id="">
     		<xf:label><![CDATA[Insert ch]]></xf:label>
     	</w2:anchor>
+    	<w2:textbox label="테스트입니다" style="width: 150px;height: 23px;" id=""></w2:textbox>
     </body>
 </html>
