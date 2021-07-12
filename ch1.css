@@ -54,18 +54,3 @@ figure{margin:0}
 .mt50{margin-top:50px;}
 .mb50{margin-bottom:50px;}
 
-[class^="icon-"], [class*=" icon-"] {display:inline-block;line-height:1em;}
-[class^="icon-"]:before, [class*=" icon-"]:before {
-    font-family:"ebook-audiobook";
-    font-style:normal;
-    font-weight:normal;
-    speak:never;
-    text-decoration:inherit;
-    width:auto;
-    text-align:center;
-    font-variant:normal;
-    text-transform:none;
-    line-height:1em;
-    -webkit-font-smoothing:antialiased;
-    -moz-osx-font-smoothing:grayscale;
-}
